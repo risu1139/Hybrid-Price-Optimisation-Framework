@@ -39,3 +39,9 @@ print(result)
 # Files in This Repository
 Optimisation Project.ipynb: The main Jupyter notebook containing the implementation of the optimization process.
 README.md: This file, providing an overview and instructions for the project.
+#Additional Resources
+
+This repository also includes the following files:
+
+Hybrid-Price-Optimisation.pdf: A detailed document outlining the need for the project, its future scope, and a comprehensive description of the course. This file provides essential context and direction for the ongoing and future development of the project.
+data.csv: A CSV file containing pseudo data for the objective function. This file is used in the optimization process and serves as a sample dataset for demonstrating the methods implemented in the project.
